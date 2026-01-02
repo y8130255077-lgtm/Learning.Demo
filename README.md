@@ -1,3 +1,4 @@
 # Learning.Demo
 This is learning repository
-author - yasar
+<br>
+author - yasar (student)
